@@ -1,0 +1,1 @@
+# channel-notification-system_rabbitmq_exchange-direct
